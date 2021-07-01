@@ -2,6 +2,7 @@
 
 
 * I'm on my way to become a full stack developer.
+* I'm a railway systems engineering graduate.
 * I like watching movies, traveling, cooking and playing chess.
 
 ### Connect with me
